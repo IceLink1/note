@@ -7,7 +7,7 @@
     "dev": "nodemon index.js",
   },
   "keywords": [],
-  "author": "",
+  "author": "icelink",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^3.13.0",
